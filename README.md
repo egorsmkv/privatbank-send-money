@@ -23,4 +23,4 @@ MERCHANT_PASSWORD = 'YYYYYYYYYYYYYYYYYYYYYYYY'
 ruby send_money.rb --payment_id 12345 --card XXXXCCCCVVVVBBBB --amount 1.01 --details "It is a test payment"
 ```
 
-Программа логирует все действия, их можно посмотреть в файле `send_payment.log`
+Программа логирует все действия, их можно посмотреть в файле `send_money.log`
